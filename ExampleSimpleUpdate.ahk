@@ -5,3 +5,7 @@ FILE := "https://raw.githubusercontent.com/fredator10/Potion-Licensing/master/Ex
 mode := 1
 
 AutoUpdate(FILE, mode)
+
+
+
+;Alfred 
