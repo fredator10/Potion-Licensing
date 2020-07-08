@@ -9,3 +9,4 @@ AutoUpdate(FILE, mode)
 
 
 ;Alfred 
+;Test samples
