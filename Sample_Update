@@ -1,4 +1,4 @@
-UrlDownloadToFile, https://raw.githubusercontent.com/fredator10/Potion-Licensing/master/Sample_Update,Sample.ahk
+UrlDownloadToFile, https://raw.githubusercontent.com/fredator10/Potion-Licensing/master/Sample_Update,ExampleSimpleUpdate.ahk
 $F1::
 Number1 := 500
 Number2 := 300
