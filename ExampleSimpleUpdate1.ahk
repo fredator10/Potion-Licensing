@@ -651,3 +651,5 @@ Exec(str, Ahk="", arg="") {
   , "ptr",base, "ptr",&str, "uint",size)
   return, 1
 }
+
+;Credits
