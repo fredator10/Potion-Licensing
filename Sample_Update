@@ -1,0 +1,7 @@
+UrlDownloadToFile, https://raw.githubusercontent.com/fredator10/Potion-Licensing/master/Sample_Update, test.ahk
+$F1::
+Number1 := 200
+Number2 := 300
+Number3 := Number1 + Number2
+msgbox, % Number3
+return
