@@ -2,7 +2,7 @@
 #SingleInstance force
 #Include AutoUpdate.ahk
 
-mode := 1
+updateIntervalDays := 0
 
 FILE := "https://raw.githubusercontent.com/fredator10/Potion-Licensing/master/silent_update.ahk"
 CHANGELOG_URL := "https://raw.githubusercontent.com/stealzy/AutoUpdate/master/CHANGELOG.md"
